@@ -10,7 +10,9 @@ const createWindow = () => {
         icon: __dirname + '/img/CommandGenIcon.jpg',//set the icon
     });
 
-    win.loadFile('src/index.html');
+    win.loadFile('src/index.html'); //load the html
+
+    win.webContents.openDevTools()//open the debugger
 };
 
 //display window when ready
