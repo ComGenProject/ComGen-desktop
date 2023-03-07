@@ -7,6 +7,7 @@ const createWindow = () => {
         width: 800,
         height: 600,
         autoHideMenuBar: true,//hide the menuBar
+        icon: __dirname + '/img/CommandGenIcon.jpg',//set the icon
     });
 
     win.loadFile('src/index.html');
