@@ -4,15 +4,15 @@
   "description": "",
   "main": "src/main.js",
   "scripts": {
+    "format": "npx prettier --write .",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "electron ."
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^23.1.2"
-  },
-  "dependencies": {
+    "electron": "^23.1.2",
+    "prettier": "^2.8.4",
     "minecraft-framework-css": "^1.1.9"
   }
 }

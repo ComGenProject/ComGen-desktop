@@ -17,19 +17,18 @@ const createWindow = () => {
 
 //display window when ready
 app.whenReady().then(() => {
-    createWindow();
+  createWindow();
 
-    app.on('activate', () => {
-        if (BrowserWindow.getAllWindows().length === 0) {
-            createWindow();
-        }
-    });
-
+  app.on('activate', () => {
+    if (BrowserWindow.getAllWindows().length === 0) {
+      createWindow();
+    }
+  });
 });
 
 //close app when all windows are closed
 app.on('window-all-closed', () => {
-    if (process.platform !== 'darwin') {
-        app.quit();
-    }
+  if (process.platform !== 'darwin') {
+    app.quit();
+  }
 });
