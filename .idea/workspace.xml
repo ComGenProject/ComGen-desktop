@@ -5,52 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ad249d7-2932-4773-8f10-179802cd3cdf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/electron-vite-react/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-vite-react/.npmrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-vite-react/.vscode/.debug.script.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-vite-react/.vscode/extensions.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-vite-react/.vscode/launch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-vite-react/.vscode/settings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-vite-react/.vscode/tasks.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-vite-react/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-vite-react/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-vite-react/README.zh-CN.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-vite-react/build/icon.icns" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-vite-react/build/icon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-vite-react/e2e/example.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-vite-react/e2e/screenshots/example.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-vite-react/electron-builder.json5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-vite-react/electron/electron-env.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-vite-react/electron/main/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-vite-react/electron/preload/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-vite-react/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-vite-react/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-vite-react/playwright.config.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-vite-react/public/electron-vite-react-debug.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-vite-react/public/electron-vite-react.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-vite-react/public/electron-vite.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-vite-react/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-vite-react/src/Components/Home.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-vite-react/src/Home.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-vite-react/src/assets/node.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-vite-react/src/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-vite-react/src/main.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-vite-react/src/samples/node-api.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-vite-react/src/vite-env.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-vite-react/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-vite-react/tsconfig.node.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-vite-react/vite.config.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-vite-react/vite.legacy.config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.prettierrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/CommandGenIcon.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/minecraft-menu-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/electron-vite-react/src/img/minecraft-menu-bg.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/electron-vite-react/src/main.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/electron-vite-react/src/main.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +81,7 @@
       <workItem from="1678192447802" duration="7421000" />
       <workItem from="1678267698466" duration="1827000" />
       <workItem from="1678349354129" duration="3267000" />
-      <workItem from="1678366469343" duration="4255000" />
+      <workItem from="1678366469343" duration="4547000" />
     </task>
     <servers />
   </component>
