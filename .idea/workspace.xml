@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ad249d7-2932-4773-8f10-179802cd3cdf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/electron-vite-react/src/main.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/electron-vite-react/src/main.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-vite-react/src/Components/HomePage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-vite-react/src/Components/MinecraftButton.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-vite-react/src/styles/main.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-vite-react/src/styles/mc_button.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/electron-vite-react/src/Components/Home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/electron-vite-react/src/Components/Home.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +22,7 @@
       <list>
         <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -31,31 +37,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ebasson/Documents/dev/electron-vite&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;C:\\Users\\ebasson\\Documents\\dev\\ComGen-desktop\\node_modules\\prettier&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\ebasson\\Documents\\dev\\ComGen-desktop\\electron-vite-react\\node_modules\\typescript\\lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/ebasson/Documents/dev/electron-vite",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "C:\\Users\\ebasson\\Documents\\dev\\ComGen-desktop\\node_modules\\prettier",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "C:\\Users\\ebasson\\Documents\\dev\\ComGen-desktop\\electron-vite-react\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ebasson\Documents\dev\ComGen-desktop\electron-vite-react\src\styles" />
       <recent name="C:\Users\ebasson\Documents\dev\ComGen-desktop\electron-vite-react\public" />
       <recent name="C:\Users\ebasson\Documents\dev\ComGen-desktop\electron-vite-react\electron\main\icon" />
       <recent name="C:\Users\ebasson\Documents\dev\ComGen-desktop\electron-vite-react\electron\main" />
       <recent name="C:\Users\ebasson\Documents\dev\ComGen-desktop\electron-vite-react\src\img" />
-      <recent name="C:\Users\ebasson\Documents\dev\ComGen-desktop\electron-vite-react\src\Components" />
     </key>
   </component>
   <component name="RunManager">
@@ -81,7 +88,9 @@
       <workItem from="1678192447802" duration="7421000" />
       <workItem from="1678267698466" duration="1827000" />
       <workItem from="1678349354129" duration="3267000" />
-      <workItem from="1678366469343" duration="4547000" />
+      <workItem from="1678366469343" duration="5142000" />
+      <workItem from="1678699107443" duration="649000" />
+      <workItem from="1679473551906" duration="6578000" />
     </task>
     <servers />
   </component>
