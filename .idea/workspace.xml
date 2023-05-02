@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ad249d7-2932-4773-8f10-179802cd3cdf" name="Changes" comment="">
+    <list default="true" id="0749a075-b6ec-4215-9c72-24c60a88a33e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/electron-vite-react/src/Components/Give.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-vite-react/src/Components/utilities/McButtons.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-vite-react/src/font/minecraft.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-vite-react/src/styles/McButtons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-vite-react/src/styles/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-vite-react/src/styles/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/electron-vite-react/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/electron-vite-react/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/electron-vite-react/src/Components/Home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/electron-vite-react/src/Components/Home.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/electron-vite-react/src/main.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/electron-vite-react/src/main.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,55 +21,64 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="JavaScript File" />
-        <option value="HTML File" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="test-de-routeur" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1683060716" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="test-de-routeur" />
+                    <option name="lastUsedInstant" value="1683060140" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2Mgc0t26JSTGPb3rT68yAc7pT8v" />
+  <component name="ProjectId" id="2PFmG1fPcLwMhgkPAciDVJSrEcT" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ebasson/Documents/dev/electron-vite&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;C:\\Users\\ebasson\\Documents\\dev\\ComGen-desktop\\node_modules\\prettier&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\ebasson\\Documents\\dev\\ComGen-desktop\\electron-vite-react\\node_modules\\typescript\\lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "C:\\Users\\stbnb\\Documents\\dev\\dev_perso\\ComGen-desktop\\electron-vite-react\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\ebasson\Documents\dev\ComGen-desktop\electron-vite-react\public" />
-      <recent name="C:\Users\ebasson\Documents\dev\ComGen-desktop\electron-vite-react\electron\main\icon" />
-      <recent name="C:\Users\ebasson\Documents\dev\ComGen-desktop\electron-vite-react\electron\main" />
-      <recent name="C:\Users\ebasson\Documents\dev\ComGen-desktop\electron-vite-react\src\img" />
-      <recent name="C:\Users\ebasson\Documents\dev\ComGen-desktop\electron-vite-react\src\Components" />
-    </key>
-  </component>
+}]]></component>
   <component name="RunManager">
-    <configuration name="dev" type="js.build_tools.npm">
-      <package-json value="$PROJECT_DIR$/electron-vite-react/package.json" />
+    <configuration name="dev" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
       <scripts>
         <script value="dev" />
@@ -73,15 +91,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1ad249d7-2932-4773-8f10-179802cd3cdf" name="Changes" comment="" />
-      <created>1678192446358</created>
+      <changelist id="0749a075-b6ec-4215-9c72-24c60a88a33e" name="Changes" comment="" />
+      <created>1683061108180</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1678192446358</updated>
-      <workItem from="1678192447802" duration="7421000" />
-      <workItem from="1678267698466" duration="1827000" />
-      <workItem from="1678349354129" duration="3267000" />
-      <workItem from="1678366469343" duration="4547000" />
+      <updated>1683061108180</updated>
+      <workItem from="1683061109556" duration="1420000" />
     </task>
     <servers />
   </component>

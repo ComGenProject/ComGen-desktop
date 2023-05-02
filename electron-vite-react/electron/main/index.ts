@@ -42,6 +42,14 @@ const indexHtml = join(process.env.DIST, 'index.html')
 
 async function createWindow() {
   win = new BrowserWindow({
+    height:    600,
+    minHeight: 600,
+    maxHeight: 600,
+
+    width:    800,
+    minWidth: 800,
+    maxWidth: 800,
+
     title: 'Command Generator',
     icon: join(process.env.PUBLIC, 'favicon.ico'),
     autoHideMenuBar: true,
